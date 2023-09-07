@@ -1,0 +1,59 @@
+﻿  Using bundled DotNet SDK version: 6.0.302
+  Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" Project_OverandOutEditor Win64 Development -Project="C:\Users\aamir\Documents\Unreal Projects\Project_OverandOut\Project_OverandOut.uproject" -WaitMutex -FromMsBuild -Rebuild
+  Log file: C:\Users\aamir\AppData\Local\UnrealBuildTool\Log.txt
+  Cleaning Project_OverandOutEditor binaries...
+  Creating makefile for Project_OverandOutEditor (no existing makefile)
+  Building Project_OverandOutEditor...
+  Using Visual Studio 2022 14.36.32532 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532) and Windows 10.0.22000.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Upgrade]
+  [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+  [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_1
+  [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_2;' in Project_OverandOutEditor.Target.cs.
+  [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+  [Upgrade]
+  Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+    Executing up to 8 processes, one per physical core
+    Requested 1.5 GB free memory per action, 2.15 GB available: limiting max parallel actions to 1
+  Building 30 actions with 1 process...
+  [1/30] Compile [x64] SharedPCH.Engine.ShadowErrors.cpp
+  [2/30] Resource Default.rc2
+  [3/30] Compile [x64] SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.cpp
+  [4/30] Resource Default.rc2
+  [5/30] Resource Default.rc2
+  [6/30] Resource Default.rc2
+  [7/30] Resource Default.rc2
+  [8/30] Compile [x64] Module.ALS.2_of_3.cpp
+  [9/30] Compile [x64] Module.ALS.3_of_3.cpp
+  [10/30] Compile [x64] Module.ALS.1_of_3.cpp
+  [11/30] Compile [x64] Module.ALSCamera.cpp
+  [12/30] Compile [x64] Module.ALSEditor.cpp
+  [13/30] Compile [x64] Module.ALSExtras.cpp
+  [14/30] Compile [x64] Project_OverandOutGameMode.gen.cpp
+  [15/30] Compile [x64] Project_OverandOut.cpp
+  [16/30] Compile [x64] Project_OverandOutCharacter.cpp
+  [17/30] Compile [x64] Project_OverandOutCharacter.gen.cpp
+  [18/30] Compile [x64] Project_OverandOut.init.gen.cpp
+  [19/30] Compile [x64] Project_OverandOutGameMode.cpp
+  [20/30] Link [x64] UnrealEditor-ALS.lib
+     Creating library C:\Users\aamir\Documents\Unreal Projects\Project_OverandOut\Plugins\ALS-Refactored-4.12\Intermediate\Build\Win64\x64\UnrealEditor\Development\ALS\UnrealEditor-ALS.lib and object C:\Users\aamir\Documents\Unreal Projects\Project_OverandOut\Plugins\ALS-Refactored-4.12\Intermediate\Build\Win64\x64\UnrealEditor\Development\ALS\UnrealEditor-ALS.exp
+  [21/30] Link [x64] UnrealEditor-ALS.dll
+     Creating library C:\Users\aamir\Documents\Unreal Projects\Project_OverandOut\Plugins\ALS-Refactored-4.12\Intermediate\Build\Win64\x64\UnrealEditor\Development\ALS\UnrealEditor-ALS.suppressed.lib and object C:\Users\aamir\Documents\Unreal Projects\Project_OverandOut\Plugins\ALS-Refactored-4.12\Intermediate\Build\Win64\x64\UnrealEditor\Development\ALS\UnrealEditor-ALS.suppressed.exp
+  [22/30] Link [x64] UnrealEditor-ALSCamera.lib
+     Creating library C:\Users\aamir\Documents\Unreal Projects\Project_OverandOut\Plugins\ALS-Refactored-4.12\Intermediate\Build\Win64\x64\UnrealEditor\Development\ALSCamera\UnrealEditor-ALSCamera.lib and object C:\Users\aamir\Documents\Unreal Projects\Project_OverandOut\Plugins\ALS-Refactored-4.12\Intermediate\Build\Win64\x64\UnrealEditor\Development\ALSCamera\UnrealEditor-ALSCamera.exp
+  [23/30] Link [x64] UnrealEditor-ALSEditor.lib
+     Creating library C:\Users\aamir\Documents\Unreal Projects\Project_OverandOut\Plugins\ALS-Refactored-4.12\Intermediate\Build\Win64\x64\UnrealEditor\Development\ALSEditor\UnrealEditor-ALSEditor.lib and object C:\Users\aamir\Documents\Unreal Projects\Project_OverandOut\Plugins\ALS-Refactored-4.12\Intermediate\Build\Win64\x64\UnrealEditor\Development\ALSEditor\UnrealEditor-ALSEditor.exp
+  [24/30] Link [x64] UnrealEditor-ALSExtras.lib
+     Creating library C:\Users\aamir\Documents\Unreal Projects\Project_OverandOut\Plugins\ALS-Refactored-4.12\Intermediate\Build\Win64\x64\UnrealEditor\Development\ALSExtras\UnrealEditor-ALSExtras.lib and object C:\Users\aamir\Documents\Unreal Projects\Project_OverandOut\Plugins\ALS-Refactored-4.12\Intermediate\Build\Win64\x64\UnrealEditor\Development\ALSExtras\UnrealEditor-ALSExtras.exp
+  [25/30] Link [x64] UnrealEditor-Project_OverandOut.dll
+     Creating library C:\Users\aamir\Documents\Unreal Projects\Project_OverandOut\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project_OverandOut\UnrealEditor-Project_OverandOut.suppressed.lib and object C:\Users\aamir\Documents\Unreal Projects\Project_OverandOut\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project_OverandOut\UnrealEditor-Project_OverandOut.suppressed.exp
+  [26/30] Link [x64] UnrealEditor-Project_OverandOut.lib
+     Creating library C:\Users\aamir\Documents\Unreal Projects\Project_OverandOut\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project_OverandOut\UnrealEditor-Project_OverandOut.lib and object C:\Users\aamir\Documents\Unreal Projects\Project_OverandOut\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project_OverandOut\UnrealEditor-Project_OverandOut.exp
+  [27/30] Link [x64] UnrealEditor-ALSEditor.dll
+     Creating library C:\Users\aamir\Documents\Unreal Projects\Project_OverandOut\Plugins\ALS-Refactored-4.12\Intermediate\Build\Win64\x64\UnrealEditor\Development\ALSEditor\UnrealEditor-ALSEditor.suppressed.lib and object C:\Users\aamir\Documents\Unreal Projects\Project_OverandOut\Plugins\ALS-Refactored-4.12\Intermediate\Build\Win64\x64\UnrealEditor\Development\ALSEditor\UnrealEditor-ALSEditor.suppressed.exp
+  [28/30] Link [x64] UnrealEditor-ALSCamera.dll
+     Creating library C:\Users\aamir\Documents\Unreal Projects\Project_OverandOut\Plugins\ALS-Refactored-4.12\Intermediate\Build\Win64\x64\UnrealEditor\Development\ALSCamera\UnrealEditor-ALSCamera.suppressed.lib and object C:\Users\aamir\Documents\Unreal Projects\Project_OverandOut\Plugins\ALS-Refactored-4.12\Intermediate\Build\Win64\x64\UnrealEditor\Development\ALSCamera\UnrealEditor-ALSCamera.suppressed.exp
+  [29/30] Link [x64] UnrealEditor-ALSExtras.dll
+     Creating library C:\Users\aamir\Documents\Unreal Projects\Project_OverandOut\Plugins\ALS-Refactored-4.12\Intermediate\Build\Win64\x64\UnrealEditor\Development\ALSExtras\UnrealEditor-ALSExtras.suppressed.lib and object C:\Users\aamir\Documents\Unreal Projects\Project_OverandOut\Plugins\ALS-Refactored-4.12\Intermediate\Build\Win64\x64\UnrealEditor\Development\ALSExtras\UnrealEditor-ALSExtras.suppressed.exp
+  [30/30] WriteMetadata Project_OverandOutEditor.target
+  Total time in Parallel executor: 233.43 seconds
+  Total execution time: 333.00 seconds
