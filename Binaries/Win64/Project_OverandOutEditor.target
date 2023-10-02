@@ -70,6 +70,18 @@
 			"Type": "RequiredResource"
 		},
 		{
+			"Path": "$(ProjectDir)/Plugins/RLPlugin/Binaries/Win64/UnrealEditor-RLPlugin.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/RLPlugin/Binaries/Win64/UnrealEditor-RLPlugin.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/RLPlugin/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
 			"Path": "$(EngineDir)/Binaries/Win64/AgentInterface.dll",
 			"Type": "RequiredResource"
 		},
@@ -3421,6 +3433,10 @@
 	"RuntimeDependencies": [
 		{
 			"Path": "$(ProjectDir)/Plugins/ALS-Refactored-4.12/ALS.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/RLPlugin/RLPlugin.uplugin",
 			"Type": "UFS"
 		},
 		{

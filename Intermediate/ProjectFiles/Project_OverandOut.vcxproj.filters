@@ -32,6 +32,18 @@
     <None Include="..\..\Config\DefaultInput.ini">
       <Filter>Config</Filter>
     </None>
+    <Filter Include="Platforms">
+      <UniqueIdentifier>{ED49A36C-4FD5-37E5-A2AC-E11BEF4F21CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platforms\HoloLens">
+      <UniqueIdentifier>{28125F47-4973-377C-9D77-EBC3C72EC856}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platforms\HoloLens\Config">
+      <UniqueIdentifier>{D3BF39CB-FA64-39E2-A327-B5021BA69773}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Platforms\HoloLens\Config\HoloLensEngine.ini">
+      <Filter>Platforms\HoloLens\Config</Filter>
+    </None>
     <Filter Include="Plugins">
       <UniqueIdentifier>{BB38096A-B391-30DC-A0D4-4F3EA6B44507}</UniqueIdentifier>
     </Filter>
@@ -118,6 +130,21 @@
     </Filter>
     <None Include="..\..\Plugins\ALS-Refactored-4.12\Resources\Icon128.png">
       <Filter>Plugins\ALS-Refactored-4.12\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\RLPlugin">
+      <UniqueIdentifier>{FEBCA6A8-0881-324B-A588-0DFD8E438BF5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\RLPlugin\RLPlugin.uplugin">
+      <Filter>Plugins\RLPlugin</Filter>
+    </None>
+    <Filter Include="Plugins\RLPlugin\Resources">
+      <UniqueIdentifier>{985DC735-73EA-3B49-A6A3-9A10657F842D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\RLPlugin\Resources\ButtonIcon_40x.png">
+      <Filter>Plugins\RLPlugin\Resources</Filter>
+    </None>
+    <None Include="..\..\Plugins\RLPlugin\Resources\Icon128.png">
+      <Filter>Plugins\RLPlugin\Resources</Filter>
     </None>
     <Filter Include="Plugins\ALS-Refactored-4.12\Source\ALSEditor">
       <UniqueIdentifier>{D5C35895-4C49-3FD5-A263-0E189002C8DC}</UniqueIdentifier>
@@ -517,6 +544,63 @@
     </ClInclude>
     <ClInclude Include="..\..\Plugins\ALS-Refactored-4.12\Source\ALS\Public\Utility\AlsUtility.h">
       <Filter>Plugins\ALS-Refactored-4.12\Source\ALS\Public\Utility</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\RLPlugin\Source">
+      <UniqueIdentifier>{D292231F-DBDC-37C7-93B9-AFD3DF956EC0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\RLPlugin\Source\RLPlugin">
+      <UniqueIdentifier>{D378D890-0FA8-3066-8D8F-969950F20BCE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\RLPlugin\Source\RLPlugin\RLPlugin.Build.cs">
+      <Filter>Plugins\RLPlugin\Source\RLPlugin</Filter>
+    </None>
+    <Filter Include="Plugins\RLPlugin\Source\RLPlugin\Private">
+      <UniqueIdentifier>{EB146C67-6B5B-33EB-8F65-6D1D0D84DD4F}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\RLPlugin\Source\RLPlugin\Private\CCFbxFactory.h">
+      <Filter>Plugins\RLPlugin\Source\RLPlugin\Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\RLPlugin\Source\RLPlugin\Private\CCImportUI.h">
+      <Filter>Plugins\RLPlugin\Source\RLPlugin\Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\RLPlugin\Source\RLPlugin\Private\RLShaderData.h">
+      <Filter>Plugins\RLPlugin\Source\RLPlugin\Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\RLPlugin\Source\RLPlugin\Private\RLString.h">
+      <Filter>Plugins\RLPlugin\Source\RLPlugin\Private</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\RLPlugin\Source\RLPlugin\Public">
+      <UniqueIdentifier>{CBA592C2-7D0F-3D0B-A1E8-EE3EDF88B825}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\RLPlugin\Source\RLPlugin\Public\CCApplyTextureToMetaHuman.h">
+      <Filter>Plugins\RLPlugin\Source\RLPlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\RLPlugin\Source\RLPlugin\Public\CCImportWindow.h">
+      <Filter>Plugins\RLPlugin\Source\RLPlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\RLPlugin\Source\RLPlugin\Public\RLMaterialData.h">
+      <Filter>Plugins\RLPlugin\Source\RLPlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\RLPlugin\Source\RLPlugin\Public\RLPhysicClothData.h">
+      <Filter>Plugins\RLPlugin\Source\RLPlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\RLPlugin\Source\RLPlugin\Public\RLPhysicCollisionShapeData.h">
+      <Filter>Plugins\RLPlugin\Source\RLPlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\RLPlugin\Source\RLPlugin\Public\RLPlugin.h">
+      <Filter>Plugins\RLPlugin\Source\RLPlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\RLPlugin\Source\RLPlugin\Public\RLPluginCommands.h">
+      <Filter>Plugins\RLPlugin\Source\RLPlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\RLPlugin\Source\RLPlugin\Public\RLPluginStyle.h">
+      <Filter>Plugins\RLPlugin\Source\RLPlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\RLPlugin\Source\RLPlugin\Public\RLTextureData.h">
+      <Filter>Plugins\RLPlugin\Source\RLPlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\RLPlugin\Source\RLPlugin\Public\RLWrinkleData.h">
+      <Filter>Plugins\RLPlugin\Source\RLPlugin\Public</Filter>
     </ClInclude>
     <Filter Include="Source\Project_OverandOut">
       <UniqueIdentifier>{560B5B40-C04F-304D-94F3-4F7E64A22EDD}</UniqueIdentifier>

@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "Project_OverandOut",
-			"Path": "C:\\Users\\aamir\\Documents\\Unreal Projects\\Project_OverandOut\\Source\\Project_OverandOut.Target.cs",
+			"Path": "C:\\Users\\aamir\\Documents\\Unreal Projects\\OverandOut\\Source\\Project_OverandOut.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "Project_OverandOutEditor",
-			"Path": "C:\\Users\\aamir\\Documents\\Unreal Projects\\Project_OverandOut\\Source\\Project_OverandOutEditor.Target.cs",
+			"Path": "C:\\Users\\aamir\\Documents\\Unreal Projects\\OverandOut\\Source\\Project_OverandOutEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

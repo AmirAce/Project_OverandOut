@@ -47,7 +47,7 @@
 
 # # Binary Files
  Binaries/*
-  Plugins/*/Binaries/*
+  
 
 # # Builds
  Build/*
@@ -68,7 +68,70 @@
 
 # # Compiled source files for the engine to use
  Intermediate/*
- Plugins/*/Intermediate/*
+
 
 # # Cache files for the editor to use
  DerivedDataCache/*
+Intermediate/Build/Win64/x64/Project_OverandOutEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.pch
+Intermediate/Build/Win64/x64/Project_OverandOutEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h.pch
+Intermediate/Build/Win64/x64/Project_OverandOutEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h.obj
+Intermediate/Build/Win64/x64/Project_OverandOutEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h.dep.json
+Intermediate/Build/Win64/x64/Project_OverandOutEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.cpp.old
+Intermediate/Build/Win64/x64/Project_OverandOutEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.cpp
+Intermediate/Build/Win64/x64/Project_OverandOutEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h.obj
+Intermediate/Build/Win64/x64/Project_OverandOutEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h.dep.json
+Intermediate/Build/Win64/x64/Project_OverandOutEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.cpp
+Intermediate/Build/BuildRules/Project_OverandOutModuleRules.dll
+Intermediate/Build/BuildRules/Project_OverandOutModuleRules.pdb
+Intermediate/Build/BuildRules/Project_OverandOutModuleRulesManifest.json
+Intermediate/Build/SourceFileCache.bin
+Intermediate/Build/Win64/ActionHistory.bin
+Intermediate/Build/Win64/Project_OverandOutEditor/Development/Project_OverandOutEditor.uhtmanifest
+Intermediate/Build/Win64/UnrealEditor/Inc/Project_OverandOut/UHT/Project_OverandOut.init.gen.cpp
+Intermediate/Build/Win64/UnrealEditor/Inc/Project_OverandOut/UHT/Project_OverandOutCharacter.gen.cpp
+Intermediate/Build/Win64/UnrealEditor/Inc/Project_OverandOut/UHT/Project_OverandOutCharacter.generated.h
+Intermediate/Build/Win64/UnrealEditor/Inc/Project_OverandOut/UHT/Project_OverandOutGameMode.gen.cpp
+Intermediate/Build/Win64/UnrealEditor/Inc/Project_OverandOut/UHT/Project_OverandOutGameMode.generated.h
+Intermediate/Build/Win64/UnrealEditor/Inc/Project_OverandOut/UHT/Timestamp
+Intermediate/Build/Win64/x64/Project_OverandOutEditor/ActionHistory.bin
+Intermediate/Build/Win64/x64/Project_OverandOutEditor/Development/DependencyCache.bin
+Intermediate/Build/Win64/x64/Project_OverandOutEditor/Development/TargetMetadata.dat
+Intermediate/Build/Win64/x64/UnrealEditor/ActionHistory.bin
+Intermediate/Build/Win64/x64/UnrealEditor/Development/Project_OverandOut/Default.rc2.res.response
+Intermediate/Build/Win64/x64/UnrealEditor/Development/Project_OverandOut/Default.rc2.res.response.old
+Intermediate/Build/Win64/x64/UnrealEditor/Development/Project_OverandOut/Project_OverandOut.cpp.dep.json
+Intermediate/Build/Win64/x64/UnrealEditor/Development/Project_OverandOut/Project_OverandOut.cpp.obj
+Intermediate/Build/Win64/x64/UnrealEditor/Development/Project_OverandOut/Project_OverandOut.cpp.obj.response
+Intermediate/Build/Win64/x64/UnrealEditor/Development/Project_OverandOut/Project_OverandOut.cpp.obj.response.old
+Intermediate/Build/Win64/x64/UnrealEditor/Development/Project_OverandOut/Project_OverandOut.init.gen.cpp.dep.json
+Intermediate/Build/Win64/x64/UnrealEditor/Development/Project_OverandOut/Project_OverandOut.init.gen.cpp.obj
+Intermediate/Build/Win64/x64/UnrealEditor/Development/Project_OverandOut/Project_OverandOut.init.gen.cpp.obj.response
+Intermediate/Build/Win64/x64/UnrealEditor/Development/Project_OverandOut/Project_OverandOut.init.gen.cpp.obj.response.old
+Intermediate/Build/Win64/x64/UnrealEditor/Development/Project_OverandOut/Project_OverandOutCharacter.cpp.dep.json
+Intermediate/Build/Win64/x64/UnrealEditor/Development/Project_OverandOut/Project_OverandOutCharacter.cpp.obj
+Intermediate/Build/Win64/x64/UnrealEditor/Development/Project_OverandOut/Project_OverandOutCharacter.cpp.obj.response
+Intermediate/Build/Win64/x64/UnrealEditor/Development/Project_OverandOut/Project_OverandOutCharacter.cpp.obj.response.old
+Intermediate/Build/Win64/x64/UnrealEditor/Development/Project_OverandOut/Project_OverandOutCharacter.gen.cpp.dep.json
+Intermediate/Build/Win64/x64/UnrealEditor/Development/Project_OverandOut/Project_OverandOutCharacter.gen.cpp.obj
+Intermediate/Build/Win64/x64/UnrealEditor/Development/Project_OverandOut/Project_OverandOutCharacter.gen.cpp.obj.response
+Intermediate/Build/Win64/x64/UnrealEditor/Development/Project_OverandOut/Project_OverandOutCharacter.gen.cpp.obj.response.old
+Intermediate/Build/Win64/x64/UnrealEditor/Development/Project_OverandOut/Project_OverandOutGameMode.cpp.dep.json
+Intermediate/Build/Win64/x64/UnrealEditor/Development/Project_OverandOut/Project_OverandOutGameMode.cpp.obj
+Intermediate/Build/Win64/x64/UnrealEditor/Development/Project_OverandOut/Project_OverandOutGameMode.cpp.obj.response
+Intermediate/Build/Win64/x64/UnrealEditor/Development/Project_OverandOut/Project_OverandOutGameMode.cpp.obj.response.old
+Intermediate/Build/Win64/x64/UnrealEditor/Development/Project_OverandOut/Project_OverandOutGameMode.gen.cpp.dep.json
+Intermediate/Build/Win64/x64/UnrealEditor/Development/Project_OverandOut/Project_OverandOutGameMode.gen.cpp.obj
+Intermediate/Build/Win64/x64/UnrealEditor/Development/Project_OverandOut/Project_OverandOutGameMode.gen.cpp.obj.response
+Intermediate/Build/Win64/x64/UnrealEditor/Development/Project_OverandOut/Project_OverandOutGameMode.gen.cpp.obj.response.old
+Intermediate/Build/Win64/x64/UnrealEditor/Development/Project_OverandOut/UnrealEditor-Project_OverandOut.dll.response
+Intermediate/Build/Win64/x64/UnrealEditor/Development/Project_OverandOut/UnrealEditor-Project_OverandOut.dll.response.old
+Intermediate/Build/Win64/x64/UnrealEditor/Development/Project_OverandOut/UnrealEditor-Project_OverandOut.exp
+Intermediate/Build/Win64/x64/UnrealEditor/Development/Project_OverandOut/UnrealEditor-Project_OverandOut.lib
+Intermediate/Build/Win64/x64/UnrealEditor/Development/Project_OverandOut/UnrealEditor-Project_OverandOut.lib.response
+Intermediate/Build/Win64/x64/UnrealEditor/Development/Project_OverandOut/UnrealEditor-Project_OverandOut.lib.response.old
+Intermediate/Build/Win64/x64/UnrealEditor/Development/Project_OverandOut/UnrealEditor-Project_OverandOut.suppressed.exp
+Intermediate/CachedAssetRegistry.bin
+Intermediate/ProjectFiles/Project_OverandOut.vcxproj
+Intermediate/ProjectFiles/Project_OverandOut.vcxproj.filters
+Intermediate/ProjectFiles/UE5.vcxproj
+Intermediate/TargetInfo.json

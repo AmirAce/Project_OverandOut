@@ -1,7 +1,7 @@
-"C:\Users\aamir\Documents\Unreal Projects\Project_OverandOut\Source\Project_OverandOut\Project_OverandOutGameMode.cpp"
+"C:\Users\aamir\Documents\Unreal Projects\OverandOut\Source\Project_OverandOut\Project_OverandOutGameMode.cpp"
 /I .
-/I "C:\Users\aamir\Documents\Unreal Projects\Project_OverandOut\Intermediate\Build\Win64\UnrealEditor\Inc\Project_OverandOut\UHT"
-/I "C:\Users\aamir\Documents\Unreal Projects\Project_OverandOut\Source"
+/I "C:\Users\aamir\Documents\Unreal Projects\OverandOut\Intermediate\Build\Win64\UnrealEditor\Inc\Project_OverandOut\UHT"
+/I "C:\Users\aamir\Documents\Unreal Projects\OverandOut\Source"
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
 /I Runtime
@@ -290,12 +290,12 @@
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\winrt"
-/FI"C:\Users\aamir\Documents\Unreal Projects\Project_OverandOut\Intermediate\Build\Win64\x64\Project_OverandOutEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
-/FI"C:\Users\aamir\Documents\Unreal Projects\Project_OverandOut\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project_OverandOut\Definitions.Project_OverandOut.h"
-/Yu"C:\Users\aamir\Documents\Unreal Projects\Project_OverandOut\Intermediate\Build\Win64\x64\Project_OverandOutEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
-/Fp"C:\Users\aamir\Documents\Unreal Projects\Project_OverandOut\Intermediate\Build\Win64\x64\Project_OverandOutEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.pch"
-/Fo"C:\Users\aamir\Documents\Unreal Projects\Project_OverandOut\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project_OverandOut\Project_OverandOutGameMode.cpp.obj"
-/sourceDependencies "C:\Users\aamir\Documents\Unreal Projects\Project_OverandOut\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project_OverandOut\Project_OverandOutGameMode.cpp.dep.json"
+/FI"C:\Users\aamir\Documents\Unreal Projects\OverandOut\Intermediate\Build\Win64\x64\Project_OverandOutEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
+/FI"C:\Users\aamir\Documents\Unreal Projects\OverandOut\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project_OverandOut\Definitions.Project_OverandOut.h"
+/Yu"C:\Users\aamir\Documents\Unreal Projects\OverandOut\Intermediate\Build\Win64\x64\Project_OverandOutEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
+/Fp"C:\Users\aamir\Documents\Unreal Projects\OverandOut\Intermediate\Build\Win64\x64\Project_OverandOutEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.pch"
+/Fo"C:\Users\aamir\Documents\Unreal Projects\OverandOut\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project_OverandOut\Project_OverandOutGameMode.cpp.obj"
+/sourceDependencies "C:\Users\aamir\Documents\Unreal Projects\OverandOut\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project_OverandOut\Project_OverandOutGameMode.cpp.dep.json"
 /Zc:inline
 /nologo
 /Oi
