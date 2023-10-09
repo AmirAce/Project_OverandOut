@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GitSourceControl.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\aamir\Documents\Unreal Projects\OverandOut\Intermediate\Build\Win64\x64\Project_OverandOutEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"C:\Users\aamir\Documents\Unreal Projects\OverandOut\Plugins\UEGitPlugin-release (1)\UEGitPlugin-release\Intermediate\Build\Win64\x64\UnrealEditor\Development\GitSourceControl\Module.GitSourceControl.cpp.obj"
+"C:\Users\aamir\Documents\Unreal Projects\OverandOut\Plugins\UEGitPlugin-release (1)\UEGitPlugin-release\Intermediate\Build\Win64\x64\UnrealEditor\Development\GitSourceControl\Default.rc2.res"
+/OUT:"C:\Users\aamir\Documents\Unreal Projects\OverandOut\Plugins\UEGitPlugin-release (1)\UEGitPlugin-release\Intermediate\Build\Win64\x64\UnrealEditor\Development\GitSourceControl\UnrealEditor-GitSourceControl.lib"

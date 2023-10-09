@@ -1,4 +1,4 @@
-"C:\Users\aamir\Documents\Unreal Projects\OverandOut\Source\Project_OverandOut\Project_OverandOutGameMode.cpp"
+C:\Users\aamir\Documents\GitHub\DoD_Game\Project_OverandOut\Source\Project_OverandOut\Project_OverandOutGameMode.cpp
 /I .
 /I ..\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UnrealEditor\Inc\GameplayAbilities\UHT
 /I ..\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public
@@ -278,8 +278,8 @@
 /I ..\Plugins\Runtime\DataRegistry\Intermediate\Build\Win64\UnrealEditor\Inc\DataRegistry\UHT
 /I ..\Plugins\Runtime\DataRegistry\Source\DataRegistry\Public
 /I ..\Plugins\Runtime\DataRegistry\Source
-/I "C:\Users\aamir\Documents\Unreal Projects\OverandOut\Intermediate\Build\Win64\UnrealEditor\Inc\Project_OverandOut\UHT"
-/I "C:\Users\aamir\Documents\Unreal Projects\OverandOut\Source"
+/I C:\Users\aamir\Documents\GitHub\DoD_Game\Project_OverandOut\Intermediate\Build\Win64\UnrealEditor\Inc\Project_OverandOut\UHT
+/I C:\Users\aamir\Documents\GitHub\DoD_Game\Project_OverandOut\Source
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AugmentedReality\UHT
 /I Runtime\AugmentedReality\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\MRMesh\UHT
@@ -291,17 +291,17 @@
 /external:I ThirdParty\mimalloc\include
 /external:I ThirdParty\LibTiff\Source\Win64
 /external:I ThirdParty\LibTiff\Source
-/external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\INCLUDE"
+/external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\INCLUDE"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"C:\Users\aamir\Documents\Unreal Projects\OverandOut\Intermediate\Build\Win64\x64\Project_OverandOutEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
-/FI"C:\Users\aamir\Documents\Unreal Projects\OverandOut\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project_OverandOut\Definitions.Project_OverandOut.h"
-/Yu"C:\Users\aamir\Documents\Unreal Projects\OverandOut\Intermediate\Build\Win64\x64\Project_OverandOutEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
-/Fp"C:\Users\aamir\Documents\Unreal Projects\OverandOut\Intermediate\Build\Win64\x64\Project_OverandOutEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.pch"
-/Fo"C:\Users\aamir\Documents\Unreal Projects\OverandOut\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project_OverandOut\Project_OverandOutGameMode.cpp.obj"
-/sourceDependencies "C:\Users\aamir\Documents\Unreal Projects\OverandOut\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project_OverandOut\Project_OverandOutGameMode.cpp.dep.json"
+/FI"C:\Users\aamir\Documents\GitHub\DoD_Game\Project_OverandOut\Intermediate\Build\Win64\x64\Project_OverandOutEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
+/FI"C:\Users\aamir\Documents\GitHub\DoD_Game\Project_OverandOut\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project_OverandOut\Definitions.Project_OverandOut.h"
+/Yu"C:\Users\aamir\Documents\GitHub\DoD_Game\Project_OverandOut\Intermediate\Build\Win64\x64\Project_OverandOutEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
+/Fp"C:\Users\aamir\Documents\GitHub\DoD_Game\Project_OverandOut\Intermediate\Build\Win64\x64\Project_OverandOutEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.pch"
+/Fo"C:\Users\aamir\Documents\GitHub\DoD_Game\Project_OverandOut\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project_OverandOut\Project_OverandOutGameMode.cpp.obj"
+/sourceDependencies C:\Users\aamir\Documents\GitHub\DoD_Game\Project_OverandOut\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project_OverandOut\Project_OverandOutGameMode.cpp.dep.json
 /Zc:inline
 /nologo
 /Oi
