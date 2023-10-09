@@ -167,6 +167,8 @@ UAlsCharacterMovementComponent::UAlsCharacterMovementComponent()
 	NavAgentProps.bCanCrouch = true;
 	NavAgentProps.bCanFly = true;
 	bUseAccelerationForPaths = true;
+
+	Weapon = CreateDefaultSubobject<USkeletalMeshComponent>("Weapon")
 }
 
 #if WITH_EDITOR
