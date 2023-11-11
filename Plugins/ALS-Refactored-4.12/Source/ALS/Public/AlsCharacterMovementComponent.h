@@ -195,13 +195,6 @@ public:
 	void SetMovementModeLocked(bool bNewMovementModeLocked);
 
 	bool TryConsumePrePenetrationAdjustmentVelocity(FVector& OutVelocity);
-
-//-------------------------------------------------------------------------------------------------------------------------------------------------
-	//Amirs Code starts here
-protected:	
-	UPROPERTY(EditAnywhere, Category="Combat")
-	TObjectPtr<USkeletalMeshComponent> Weapon;
-
 };
 
 inline const FAlsMovementGaitSettings& UAlsCharacterMovementComponent::GetGaitSettings() const

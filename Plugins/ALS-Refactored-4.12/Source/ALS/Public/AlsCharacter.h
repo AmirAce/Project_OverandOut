@@ -32,8 +32,6 @@ protected:
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Settings|Als Character")
 	TObjectPtr<UAlsMovementSettings> MovementSettings;
 
-	UPROPERTY(EditAnywhere, Category="Combat")
-
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Settings|Als Character|Desired State",
 		ReplicatedUsing = "OnReplicated_DesiredAiming")
 	bool bDesiredAiming;
