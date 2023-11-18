@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/aamir/Documents/GitHub/DoD_Game/Project_OverandOut/Plugins/ALS-Refactored-4.12/Content/ALS/Data/Input/IA_Fire.uasset",
+				"C:/Users/aamir/Documents/GitHub/DoD_Game/Project_OverandOut/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/1E/V1GGC6L4OFR86WIAWAJ7JB.uasset",
+				"C:/Users/aamir/Documents/GitHub/DoD_Game/Project_OverandOut/Plugins/ALS-Refactored-4.12/Content/ALS/Character/B_Als_Char.uasset",
+				"C:/Users/aamir/Documents/GitHub/DoD_Game/Project_OverandOut/Content/Blueprints/CardItem.uasset",
 				"C:/Users/aamir/Documents/GitHub/Project_OverandOut/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_Inst.uasset",
 				"C:/Users/aamir/Documents/GitHub/Project_OverandOut/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/9M/DD1XS9JZQVWUH1RXY48PU3.uasset",
 				"C:/Users/aamir/Documents/GitHub/Project_OverandOut/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset",

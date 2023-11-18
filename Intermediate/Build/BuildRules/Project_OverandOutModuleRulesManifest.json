@@ -1,13 +1,13 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\aamir\\Documents\\Unreal Projects\\OverandOut\\Source\\Project_OverandOut\\Project_OverandOut.Build.cs",
-		"C:\\Users\\aamir\\Documents\\Unreal Projects\\OverandOut\\Plugins\\ALS-Refactored-4.12\\Source\\ALS\\ALS.Build.cs",
-		"C:\\Users\\aamir\\Documents\\Unreal Projects\\OverandOut\\Plugins\\ALS-Refactored-4.12\\Source\\ALSEditor\\ALSEditor.Build.cs",
-		"C:\\Users\\aamir\\Documents\\Unreal Projects\\OverandOut\\Plugins\\ALS-Refactored-4.12\\Source\\ALSCamera\\ALSCamera.Build.cs",
-		"C:\\Users\\aamir\\Documents\\Unreal Projects\\OverandOut\\Plugins\\ALS-Refactored-4.12\\Source\\ALSExtras\\ALSExtras.Build.cs",
-		"C:\\Users\\aamir\\Documents\\Unreal Projects\\OverandOut\\Plugins\\RLPlugin\\Source\\RLPlugin\\RLPlugin.Build.cs",
-		"C:\\Users\\aamir\\Documents\\Unreal Projects\\OverandOut\\Source\\Project_OverandOut.Target.cs",
-		"C:\\Users\\aamir\\Documents\\Unreal Projects\\OverandOut\\Source\\Project_OverandOutEditor.Target.cs"
+		"C:\\Users\\aamir\\Documents\\GitHub\\DoD_Game\\Project_OverandOut\\Source\\Project_OverandOut\\Project_OverandOut.Build.cs",
+		"C:\\Users\\aamir\\Documents\\GitHub\\DoD_Game\\Project_OverandOut\\Plugins\\ALS-Refactored-4.12\\Source\\ALSCamera\\ALSCamera.Build.cs",
+		"C:\\Users\\aamir\\Documents\\GitHub\\DoD_Game\\Project_OverandOut\\Plugins\\ALS-Refactored-4.12\\Source\\ALSEditor\\ALSEditor.Build.cs",
+		"C:\\Users\\aamir\\Documents\\GitHub\\DoD_Game\\Project_OverandOut\\Plugins\\ALS-Refactored-4.12\\Source\\ALS\\ALS.Build.cs",
+		"C:\\Users\\aamir\\Documents\\GitHub\\DoD_Game\\Project_OverandOut\\Plugins\\ALS-Refactored-4.12\\Source\\ALSExtras\\ALSExtras.Build.cs",
+		"C:\\Users\\aamir\\Documents\\GitHub\\DoD_Game\\Project_OverandOut\\Plugins\\RLPlugin\\Source\\RLPlugin\\RLPlugin.Build.cs",
+		"C:\\Users\\aamir\\Documents\\GitHub\\DoD_Game\\Project_OverandOut\\Source\\Project_OverandOut.Target.cs",
+		"C:\\Users\\aamir\\Documents\\GitHub\\DoD_Game\\Project_OverandOut\\Source\\Project_OverandOutEditor.Target.cs"
 	],
 	"EngineVersion": "5.2.1"
 }
